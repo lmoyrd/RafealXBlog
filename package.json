@@ -1,0 +1,22 @@
+{
+  "name": "rafealxblog",
+  "version": "1.0.0",
+  "description": "My Own Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmoyrd/RafealXBlog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "RafealX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmoyrd/RafealXBlog/issues"
+  },
+  "homepage": "https://github.com/lmoyrd/RafealXBlog#readme"
+}

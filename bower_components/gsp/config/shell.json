@@ -1,0 +1,18 @@
+{
+	"toc":
+	{
+		"command": "php ../tocgen/cli.php ../../../public .tocgen"
+	},
+	"tocforce":
+	{
+		"command": "php ../tocgen/cli.php ../../../public .tocgen -f"
+	},
+	"toclint":
+	{
+		"command": "php ../tocgen/cli.php ../../../public .tocgen -l"
+	},
+	"options":
+	{
+		"stdout": true
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"portal":
+	{
+		"src":
+		[
+			"../../../module/**/*.html",
+			"../../../module/**/*.phtml",
+			"../../../public/**/*.css",
+			"../../../public/**/*.js"
+		],
+		"expand": true
+	},
+	"options":
+	{
+		"eol": "lf"
+	}
+}

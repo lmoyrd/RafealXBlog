@@ -1,0 +1,10 @@
+{
+	"portal":
+	{
+		"src":
+		[
+			"../../../public/**/*.js"
+		],
+		"dest": "../../../dist/portal_min.js"
+	}
+}

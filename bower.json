@@ -1,0 +1,13 @@
+{
+  "name": "rafealxblog",
+  "description": "My Own Blog",
+  "main": "index.js",
+  "authors": [
+    "RafealX"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "blog"
+  ],
+  "homepage": "https://github.com/lmoyrd/RafealXBlog"
+}

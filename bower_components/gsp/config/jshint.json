@@ -1,0 +1,39 @@
+{
+	"dependency":
+	{
+		"src":
+		[
+			"gruntfile.js"
+		]
+	},
+	"portal":
+	{
+		"src":
+		[
+			"../../../public/**/*.js"
+		]
+	},
+	"options":
+	{
+		"boss": true,
+		"browser": true,
+		"curly": true,
+		"eqeqeq": true,
+		"eqnull": true,
+		"loopfunc": false,
+		"immed": false,
+		"latedef": true,
+		"newcap": true,
+		"noarg": true,
+		"node": true,
+		"sub": true,
+		"strict": true,
+		"undef": true,
+		"predef":
+		[
+			"gsp",
+			"jQuery",
+			"Zepto"
+		]
+	}
+}

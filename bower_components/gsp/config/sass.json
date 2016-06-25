@@ -1,0 +1,10 @@
+{
+	"portal":
+	{
+		"src":
+		[
+			"../../../public/sass/source.scss"
+		],
+		"dest": "../../../public/css/result.css"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"portal":
+	{
+		"src":
+		[
+			"../../../public/**/*.css"
+		]
+	},
+	"options":
+	{
+		"adjoining-classes": false,
+		"box-model": false,
+		"box-sizing": false,
+		"compatible-vendor-prefixes": false,
+		"duplicate-background-images": false,
+		"fallback-colors": false,
+		"floats": false,
+		"gradients": false,
+		"outline-none": false,
+		"qualified-headings": false
+	}
+}

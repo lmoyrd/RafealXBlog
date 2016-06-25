@@ -1,0 +1,13 @@
+{
+	"portal":
+	{
+		"dir":
+		[
+			"../../../module/**/*.php"
+		]
+	},
+	"options":
+	{
+		"bin": "../../bin/phpcs"
+	}
+}

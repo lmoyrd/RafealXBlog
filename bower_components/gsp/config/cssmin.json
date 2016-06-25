@@ -1,0 +1,10 @@
+{
+	"portal":
+	{
+		"src":
+		[
+			"../../../public/**/*.css"
+		],
+		"dest": "../../../dist/portal_min.css"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"portal":
+	{
+		"dir":
+		[
+			"../../../tests/phpunit"
+		]
+	},
+	"options":
+	{
+		"bin": "../../bin/phpunit"
+	}
+}

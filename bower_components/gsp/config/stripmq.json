@@ -1,0 +1,10 @@
+{
+	"portal":
+	{
+		"src":
+		[
+			"../../../public/css/query.css"
+		],
+		"dest": "../../../public/css/ie_old.css"
+	}
+}

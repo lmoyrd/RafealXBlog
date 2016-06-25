@@ -1,0 +1,21 @@
+{
+  "name": "gsp",
+  "description": "Grunt task management for Zend Framework 2",
+  "version": "2.4.9",
+  "license": "GPL-3.0",
+  "author": {
+    "name": "Henry Ruhs",
+    "url": "http://redaxmedia.com"
+  },
+  "homepage": "https://github.com/redaxmedia/gsp",
+  "_release": "2.4.9",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.4.9",
+    "commit": "c2c8b1798703b32ae56d20d6c067b81c18a94297"
+  },
+  "_source": "https://github.com/redaxmedia/gsp.git",
+  "_target": "^2.4.9",
+  "_originalSource": "gsp",
+  "_direct": true
+}

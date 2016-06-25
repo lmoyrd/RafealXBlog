@@ -1,0 +1,19 @@
+{
+	"portal":
+	{
+		"src":
+		[
+			"../../../public/**/*.svg"
+		],
+		"expand": true
+	},
+	"options":
+	{
+		"plugins":
+		[
+			{
+				"removeViewBox": false
+			}
+		]
+	}
+}
